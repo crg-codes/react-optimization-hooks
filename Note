@@ -1,0 +1,16 @@
+Performance Optimization Hooks:
+
+Purpose : speed up the app, reducing unnecessary rerendering, minimizing expensive calculations
+
+i) useMemo  - Memoizes calculated value and avoids unnecessary recalculation
+ii) useCallback - Memoizes function references prevents unnecessary child component re-renders
+iii) React.memo() - prevents unnecessary child component re-renders
+
+
+
+
+
+
+
+
+
